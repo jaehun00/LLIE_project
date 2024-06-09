@@ -1,6 +1,7 @@
 ### LLIE project
 
-프로젝트 명
+## 프로젝트 명
+Low Light Image Enhancement with deep learning
 
 개발인원
 
