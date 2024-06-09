@@ -1,1 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=191970&height=100&section=header&text=LLIE_project&fontSize=10" />
+### LLIE project
+
+프로젝트 명
+
+개발인원
+
+개발 기간
+
+개발 tool
+
+진행 사유
+
+관련 전공
+
+프로젝트 소개
+
+프로젝트 내용
+
+느낀점
