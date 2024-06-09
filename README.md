@@ -18,7 +18,7 @@ Low Light Image Enhancement with deep learning
 <br/>
 :point_down:  개발 tool
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Python, Pytorch
 
 <br/>
 :point_down: 진행 사유
